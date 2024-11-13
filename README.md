@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student and aspi
 ### [Voice Assistant in Python](https://github.com/BKK31/assistant)
 - A voice-activated assistant capable of executing commands like opening apps, playing music, etc.
 
-### [Web Scraping Demo in Python](https://github.com/BKK31/web-scraping)
+### [Web Scraping Demo in Python](https://github.com/BKK31/web-scrapping)
 - A tool that scrapes data from websites and presents it for analysis.
 
 ### [Git Implementation in Python](https://github.com/BKK31/git)
