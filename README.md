@@ -31,6 +31,11 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student and aspi
 ### [Web Scraping Demo in Python](https://github.com/BKK31/web-scraping)
 - A tool that scrapes data from websites and presents it for analysis.
 
+### [Git Implementation in Python](https://github.com/BKK31/git)
+- A simplified version control system replicating core Git functionalities, implemented in Python.
+- Includes basic Git commands like `add`, `commit`, `log`, and `ls-tree`.
+- Aims to demonstrate fundamental concepts behind Git's operation and version control.
+
 ### [Blockchain in Python](https://github.com/BKK31/blockchain)
 - A decentralized blockchain prototype built using Python to understand transaction security.
 
