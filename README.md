@@ -39,6 +39,10 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student and aspi
 ### [Blockchain in Python](https://github.com/BKK31/blockchain)
 - A decentralized blockchain prototype built using Python to understand transaction security.
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspavanb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## 📫 Get in Touch
 
 - 📧 **Email**: [bhargavakk13@gmail.com](mailto:bhargavakk13@gmail.com)
