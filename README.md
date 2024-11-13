@@ -1,4 +1,4 @@
-# Hi, I'm Bhargava K K 👋
+# Hi, I'm Bhargava K K 
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student and aspiring software engineer, currently exploring various fields like Machine Learning, Data Science, Web Development, and more.
 
