@@ -1,52 +1,93 @@
-# Hi, I'm Bhargava K K 
+# Hi, I'm Bhargava K K 👋
 
-Welcome to my GitHub profile! I'm a passionate Computer Science student and aspiring software engineer, currently exploring various fields like Machine Learning, Data Science, Web Development, and more.
+I'm a Computer Science graduate and working professional with hands-on experience in software development, automation, and mobile application development.  
+This GitHub contains my **personal projects**, experiments, and learning work.
+
+---
 
 ## 📚 About Me
 
-- 🎓 **Currently pursuing** a Bachelor of Engineering in Computer Science and Engineering at **Rajarajeswari College of Engineering**.
-- 💻 **Languages and Technologies**: Python, C, Java, JavaScript, SQL, HTML/CSS, Bash, MySQL, etc.
-- 🔭 **Current Focus**: Building projects to explore my skills in programming, machine learning, and web development.
-- 🌱 **Learning**: Exploring Cloud Computing, DevOps, and Data Structures & Algorithms.
+- 💼 **Resiliency Orchestration Administrator** at **Kyndryl Solutions Pvt. Ltd.**
+- 🎓 Bachelor of Engineering in Computer Science and Engineering  
+  Rajarajeswari College of Engineering
+- 💻 Interested in backend systems, automation, cloud technologies, and mobile development
+- 🌱 Currently learning **Cloud Computing, DevOps, and Data Structures & Algorithms**
+
+> ⚠️ All repositories here are personal projects and do **not** represent my employer.
+
+---
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+**Languages**
+- Python, C, Java, JavaScript, Dart, Bash
 
-## 📌 My Projects
+**Frameworks & Platforms**
+- Flutter
+- OpenCV
+- TensorFlow / Keras (basic)
 
-### [Camshift in Python](https://github.com/BKK31/camshift)
-- Real-time object tracking system using the CAMShift algorithm with OpenCV.
+**Web & Databases**
+- HTML, CSS, SQL, MySQL
 
-### [Voice Assistant in Python](https://github.com/BKK31/assistant)
-- A voice-activated assistant capable of executing commands like opening apps, playing music, etc.
+**Tools**
+- Git & GitHub
+- Linux
 
-### [Web Scraping Demo in Python](https://github.com/BKK31/web-scrapping)
-- A tool that scrapes data from websites and presents it for analysis.
+---
 
-### [Git Implementation in Python](https://github.com/BKK31/git)
-- A simplified version control system replicating core Git functionalities, implemented in Python.
-- Includes basic Git commands like `add`, `commit`, `log`, and `ls-tree`.
-- Aims to demonstrate fundamental concepts behind Git's operation and version control.
+## 📌 Featured Projects
 
-### [Blockchain in Python](https://github.com/BKK31/blockchain)
-- A decentralized blockchain prototype built using Python to understand transaction security.
+### 🔹 **BudgetLens (Flutter)**
+A personal finance and budgeting mobile application built using Flutter.  
+Helps users track expenses and manage spending through a simple, intuitive interface.
 
-# 📊 GitHub Stats:
+🔗 https://github.com/BKK31/budgetlens
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bkk31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### 🔹 **Pixel-Gallery (Flutter)**
+A Flutter-based image gallery application focused on clean UI and smooth browsing experience.  
+Demonstrates Flutter UI design, state handling, and local media access.
+
+🔗 https://github.com/BKK31/pixel-gallery
+
+---
+
+### 🔹 **Image Classification (Python)**
+A machine learning project demonstrating image classification using Python.  
+Covers data preprocessing, model training, and evaluation workflows.
+
+🔗 https://github.com/BKK31/image-classification
+
+---
+
+### 🔹 **CamShift Object Tracking (Python)**
+A computer vision project implementing the CAMShift algorithm using OpenCV for real-time object tracking in video streams.
+
+🔗 https://github.com/BKK31/camshift
+
+---
+
+### 🔹 **Voice Assistant (Python)**
+A simple voice-activated assistant capable of executing system commands such as opening applications or playing media.
+
+🔗 https://github.com/BKK31/assistant
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bkk31&theme=dark&layout=compact)
+
+---
 
 ## 📫 Get in Touch
 
-- 📧 **Email**: [bhargavakk13@gmail.com](mailto:bhargavakk13@gmail.com)
-- 💼 **LinkedIn**: [Bhargava K K](https://www.linkedin.com/in/bhargava-k-k)
-- 🧑‍💻 **GitHub**: [bkk31](https://github.com/bkk31)
+- 📧 Email: [bhargavakk13@gmail.com](mailto:bhargavakk13@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/bhargava-k-k
+- 🧑‍💻 GitHub: https://github.com/bkk31
 
-Feel free to explore my repositories and reach out for any collaboration or inquiries!
+---
+
+⭐ Feel free to explore my repositories or reach out for discussions around Flutter, Python, automation, or backend systems.
