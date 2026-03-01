@@ -78,7 +78,9 @@ A simple voice-activated assistant capable of executing system commands such as 
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bkk31&theme=dark&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bkk31&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=bkk31&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bkk31&layout=compact&theme=radical)
 
 ---
 
